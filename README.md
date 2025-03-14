@@ -102,10 +102,6 @@ Path: C:\Games\MyGame\MyGame_Data\Managed
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
-## 📮 Contact
-
-Project Link: [https://github.com/kimurux/UCParser](https://github.com/kimurux/UCParser)
-
 ---
 
 <p align="center">
