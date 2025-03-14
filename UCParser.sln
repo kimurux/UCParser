@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCParser", "UCParser.csproj", "{5E420433-62AA-401C-98B8-DD77CBD5E912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E420433-62AA-401C-98B8-DD77CBD5E912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E420433-62AA-401C-98B8-DD77CBD5E912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E420433-62AA-401C-98B8-DD77CBD5E912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E420433-62AA-401C-98B8-DD77CBD5E912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685E790B-016A-4BD3-906B-2320265C08C1}
+	EndGlobalSection
+EndGlobal
